@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/kimhanul-max/MeeTO/issues"
   },
-  "homepage": "https://github.com/kimhanul-max/MeeTO#readme"
+  "homepage": "https://github.com/kimhanul-max/MeeTO#readme",
+  "devDependencies": {}
 }
